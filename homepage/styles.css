@@ -1,0 +1,67 @@
+@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+@font-face {
+    font-family: "Game of Thrones";
+    src: url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.eot");
+    src: url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.woff") format("woff"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/97c4b25dc74e0ab045154e75a8fdd69d.svg#Game of Thrones") format("svg");
+            }
+body
+{
+    background-color: #d3d3d3;
+    font-family: "Game of Thrones", Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    color:black;
+}
+
+h5
+{
+    color:black;
+}
+
+p
+{
+    color:black;
+}
+
+
+.centered
+{
+    text-align: center;
+}
+
+.leftered
+{
+    text-align: left;
+}
+
+.rightered
+{
+    text-align: right;
+}
+
+.large
+{
+    font-size: large;
+}
+
+.medium
+{
+    font-size: medium;
+}
+
+.small
+{
+    font-size: small;
+}
+
+.smallest
+{
+    font-size: 8px;
+}
+
+#credits
+{
+    position: fixed;
+    bottom: 5px;
+    color:white;
+}
